@@ -18,7 +18,7 @@ export default function PokeCard() {
       </CardHeader>
       <CardBody className="text-center">
         <Typography variant="h4" color="blue-gray" className="mb-2">
-          {/* {pokemonData?.name} */}
+          {pokemonData?.name}
           Hi
         </Typography>
         <Typography color="blue" className="font-medium" textGradient>
